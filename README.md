@@ -1,7 +1,5 @@
 # Web Development Project - College Sikhsha
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-college--sikhsha--demo.vercel.app-b13d35?style=for-the-badge)](https://college-sikhsha-demo.vercel.app)
-
 College Sikhsha is a simple PHP/MySQL college prediction system with login, signup, and an entrance-score based predictor.
 
 ## Live Demo
